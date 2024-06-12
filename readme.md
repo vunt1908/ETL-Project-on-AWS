@@ -32,5 +32,5 @@ LƯU Ý QUAN TRỌNG: Sau khi tạo tài khoản AWS, bạn sẽ có quyền tru
 1. Tạo folder S3: trên giao diện S3, tạo đường dẫn lưu trữ tệp s3://customerdataetl/
 2. Upload toàn bộ souce code và dữ liệu lên bằng load_to_s3.py
 3. Trực quan hóa bằng QuickSight
-<img src="img/Quicksight.jpg" width="800">
+<img src="img/QuickSight.jpg" width="800">
 Và đây cũng là kết thúc của dự án, mặc dù vẫn còn nhiều hạn chế và quy mô nhỏ. Một lần nữa, xin cảm ơn các bạn đã theo dõi.
